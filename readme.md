@@ -1,5 +1,9 @@
 # PathFinder - Resolvendo o Labirinto 2D com o Algoritmo A\*
 
+## Aluno
+
+Pedro Luis Gonçalves
+
 ## Introducao
 
 Este projeto implementa o algoritmo A\* para encontrar o menor caminho entre dois pontos em um labirinto 2D. O objetivo e simular o funcionamento de um robo de resgate que precisa sair de um ponto inicial e chegar a um destino, desviando de obstaculos.
